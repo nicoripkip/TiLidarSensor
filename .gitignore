@@ -1,0 +1,5 @@
+# folders
+src/__pycache__
+
+# files
+src/*.swp
